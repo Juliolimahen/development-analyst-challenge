@@ -1,0 +1,15 @@
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\bin\Debug\net6.0\CalculoQuadradoRaizQuadrada.exe
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\bin\Debug\net6.0\CalculoQuadradoRaizQuadrada.deps.json
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\bin\Debug\net6.0\CalculoQuadradoRaizQuadrada.runtimeconfig.json
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\bin\Debug\net6.0\CalculoQuadradoRaizQuadrada.dll
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\bin\Debug\net6.0\CalculoQuadradoRaizQuadrada.pdb
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\obj\Debug\net6.0\CalculoQuadradoRaizQuadrada.csproj.AssemblyReference.cache
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\obj\Debug\net6.0\CalculoQuadradoRaizQuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\obj\Debug\net6.0\CalculoQuadradoRaizQuadrada.AssemblyInfoInputs.cache
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\obj\Debug\net6.0\CalculoQuadradoRaizQuadrada.AssemblyInfo.cs
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\obj\Debug\net6.0\CalculoQuadradoRaizQuadrada.csproj.CoreCompileInputs.cache
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\obj\Debug\net6.0\CalculoQuadradoRaizQuadrada.dll
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\obj\Debug\net6.0\refint\CalculoQuadradoRaizQuadrada.dll
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\obj\Debug\net6.0\CalculoQuadradoRaizQuadrada.pdb
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\obj\Debug\net6.0\CalculoQuadradoRaizQuadrada.genruntimeconfig.cache
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculoQuadradoRaizQuadrada\obj\Debug\net6.0\ref\CalculoQuadradoRaizQuadrada.dll

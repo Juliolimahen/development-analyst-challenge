@@ -1,0 +1,15 @@
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\bin\Debug\net6.0\CalculaAnoBisexto.exe
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\bin\Debug\net6.0\CalculaAnoBisexto.deps.json
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\bin\Debug\net6.0\CalculaAnoBisexto.runtimeconfig.json
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\bin\Debug\net6.0\CalculaAnoBisexto.dll
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\bin\Debug\net6.0\CalculaAnoBisexto.pdb
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\obj\Debug\net6.0\CalculaAnoBisexto.csproj.AssemblyReference.cache
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\obj\Debug\net6.0\CalculaAnoBisexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\obj\Debug\net6.0\CalculaAnoBisexto.AssemblyInfoInputs.cache
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\obj\Debug\net6.0\CalculaAnoBisexto.AssemblyInfo.cs
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\obj\Debug\net6.0\CalculaAnoBisexto.csproj.CoreCompileInputs.cache
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\obj\Debug\net6.0\CalculaAnoBisexto.dll
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\obj\Debug\net6.0\refint\CalculaAnoBisexto.dll
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\obj\Debug\net6.0\CalculaAnoBisexto.pdb
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\obj\Debug\net6.0\CalculaAnoBisexto.genruntimeconfig.cache
+C:\ws-projetos\teste-analista-de-desenvolvimento-junior\CalculaAnoBisexto\obj\Debug\net6.0\ref\CalculaAnoBisexto.dll
